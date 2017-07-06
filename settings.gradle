@@ -1,0 +1,1 @@
+include ':app', ':callphonetest', ':seesms', ':start_permission'
